@@ -1,0 +1,1 @@
+The scripts receives a timestamp via UDP connection from argoncube03 and saves it onto `/dev/shm` for internal reference
